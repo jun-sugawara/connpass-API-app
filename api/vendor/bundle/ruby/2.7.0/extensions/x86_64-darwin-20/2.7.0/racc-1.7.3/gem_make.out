@@ -1,0 +1,15 @@
+current directory: /Users/sugawarajun/practice/connpass-app/api/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/sugawarajun/.rbenv/versions/2.7.5/bin/ruby -I /Users/sugawarajun/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20231104-49733-yea7qu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sugawarajun/practice/connpass-app/api/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" clean
+
+current directory: /Users/sugawarajun/practice/connpass-app/api/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR="
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+
+current directory: /Users/sugawarajun/practice/connpass-app/api/vendor/bundle/ruby/2.7.0/gems/racc-1.7.3/ext/racc/cparse
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cparse.bundle ./.gem.20231104-49733-1fb9dqb/racc

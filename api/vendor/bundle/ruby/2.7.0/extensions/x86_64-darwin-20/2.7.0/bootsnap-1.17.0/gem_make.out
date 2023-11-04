@@ -1,0 +1,15 @@
+current directory: /Users/sugawarajun/practice/connpass-app/api/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.17.0/ext/bootsnap
+/Users/sugawarajun/.rbenv/versions/2.7.5/bin/ruby -I /Users/sugawarajun/.rbenv/versions/2.7.5/lib/ruby/2.7.0 -r ./siteconf20231104-51903-jb03bk.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sugawarajun/practice/connpass-app/api/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.17.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/sugawarajun/practice/connpass-app/api/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.17.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/sugawarajun/practice/connpass-app/api/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.17.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20231104-51903-1xspcrs/bootsnap
